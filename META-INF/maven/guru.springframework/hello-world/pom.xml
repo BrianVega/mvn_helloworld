@@ -47,7 +47,6 @@
                 <configuration>
                     <archive>
                         <manifest>
-<!--                            All needed dependencies have to be in the classpath-->
                             <addClasspath>true</addClasspath>
                             <mainClass>HelloWorld</mainClass>
                         </manifest>
